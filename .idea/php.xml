@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="highlightLevel" value="WARNING" />
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpCSFixer">
+    <phpcsfixer_settings>
+      <PhpCSFixerConfiguration tool_path="$PROJECT_DIR$/php-login-no-comment/vendor/bin/php-cs-fixer" />
+    </phpcsfixer_settings>
+  </component>
+  <component name="PhpCodeSniffer">
+    <phpcs_settings>
+      <PhpCSConfiguration beautifier_path="$PROJECT_DIR$/php-login-no-comment/vendor/bin/phpcbf" tool_path="$PROJECT_DIR$/php-login-no-comment/vendor/bin/phpcs" />
+    </phpcs_settings>
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/symfony/http-client" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/league/container" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/phpstan/phpstan" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/phpstan/phpdoc-parser" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/php-parallel-lint/php-parallel-lint" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/justinrainbow/json-schema" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/dealerdirect/phpcodesniffer-composer-installer" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/friendsofphp/php-cs-fixer" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/nunomaduro/phpinsights" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/symfony/polyfill-php81" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/phploc/phploc" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/squizlabs/php_codesniffer" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/composer" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/php-login-no-comment/vendor/slevomat/coding-standard" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.0">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
+  <component name="PhpStan">
+    <PhpStan_settings>
+      <PhpStanConfiguration tool_path="$PROJECT_DIR$/php-login-no-comment/vendor/bin/phpstan" />
+    </PhpStan_settings>
+  </component>
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/php-login-no-comment/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+</project>

@@ -1,0 +1,23 @@
+{
+    "name": "fuzoh/php-login-no-comment",
+    "autoload": {
+        "psr-4": {
+            "PhpLogin\\": "src/"
+        }
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^6.2",
+        "phpstan/phpstan": "^1.9",
+        "squizlabs/php_codesniffer": "*",
+        "nunomaduro/phpinsights": "^2.7"
+    },
+    "require": {
+        "ext-pdo": "*",
+        "symfony/dotenv": "^6.2"
+    },
+    "config": {
+        "allow-plugins": {
+            "dealerdirect/phpcodesniffer-composer-installer": true
+        }
+    }
+}

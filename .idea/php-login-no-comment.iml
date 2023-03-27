@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/php-login-no-comment/src" isTestSource="false" packagePrefix="PhpLogin\" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/symfony/options-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/symfony/filesystem" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/symfony/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/symfony/dotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/symfony/stopwatch" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/league/container" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/symfony/var-exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/sebastian/cli-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/phpstan/phpstan" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/phpstan/phpdoc-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/doctrine/annotations" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/psr/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/php-parallel-lint/php-parallel-lint" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/justinrainbow/json-schema" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/dealerdirect/phpcodesniffer-composer-installer" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/friendsofphp/php-cs-fixer" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/symfony/http-client-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/nunomaduro/phpinsights" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/symfony/polyfill-php81" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/phploc/phploc" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/squizlabs/php_codesniffer" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/symfony/cache-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/symfony/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/php-login-no-comment/vendor/slevomat/coding-standard" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
